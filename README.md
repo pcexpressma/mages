@@ -88,6 +88,15 @@
 ![Alt text](allinone/HP-EliteOne-800-G2-all-in-one/image_3.webp)
 ![Alt text](allinone/HP-EliteOne-800-G2-all-in-one/image_4.webp)
 
+
+
+![Alt text](allinone/HP-3420-Pro-All-in-One/image_1.webp)
+![Alt text](allinone/HP-3420-Pro-All-in-One/image_2.webp)
+![Alt text](allinone/HP-3420-Pro-All-in-One/image_3.webp)
+![Alt text](allinone/HP-3420-Pro-All-in-One/image_5.webp)
+![Alt text](allinone/HP-3420-Pro-All-in-One/image_6.webp)
+
+
 ![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_1.jpg)
 
 ![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_2.webp)
