@@ -104,6 +104,13 @@
 ![Alt text](allinone/HP-EliteOne-800-G5-All-in-One-Computer/image_4.webp)
 
 
+![Alt text](allinone/HP-EliteOne-800-G4,-All-In-One/image_1.webp)
+![Alt text](allinone/HP-EliteOne-800-G4,-All-In-One/image_2.webp)
+![Alt text](allinone/HP-EliteOne-800-G4,-All-In-One/image_3.webp)
+![Alt text](allinone/HP-EliteOne-800-G4,-All-In-One/image_4.webp)
+
+
+
 
 ![Alt text](ecrans/DELL-2412MB/image_1.jpg)
 ![Alt text](ecrans/DELL-2412MB/image_2.jpg)
