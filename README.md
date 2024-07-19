@@ -162,7 +162,14 @@
 ![Alt text](ecrans/Ecran-HP-E232/image_4.jpg)
 ![Alt text](ecrans/Ecran-HP-E232/image_5.jpg)![Alt text](ecrans/Ecran-HP-Z23n/image_3.jpg)
 ![Alt text](ecrans/Ecran-HP-Z23n/image_4.jpg)
-![Alt text](ecrans/Ecran-HP-Z23n/image_5.jpg)![Alt text](ecrans/HP--ELITEDISPLAY-Z24n-G2/image_2.jpg)![Alt text](ecrans/HP-Compaq-LE2202/image_1.jpg)
+![Alt text](ecrans/Ecran-HP-Z23n/image_5.jpg)
+
+![Alt text](ecrans/HP--ELITEDISPLAY-Z24n-G2/image_2.jpg)![Alt text](ecrans/HP-Compaq-LE2202/image_1.webp)
+![Alt text](ecrans/HP--ELITEDISPLAY-Z24n-G2/image_2.jpg)![Alt text](ecrans/HP-Compaq-LE2202/image_2.jpg)
+![Alt text](ecrans/HP--ELITEDISPLAY-Z24n-G2/image_2.jpg)![Alt text](ecrans/HP-Compaq-LE2202/image_3.webp)
+![Alt text](ecrans/HP--ELITEDISPLAY-Z24n-G2/image_2.jpg)![Alt text](ecrans/HP-Compaq-LE2202/image_4.webp)
+![Alt text](ecrans/HP--ELITEDISPLAY-Z24n-G2/image_2.jpg)![Alt text](ecrans/HP-Compaq-LE2202/image_5.webp)
+
 ![Alt text](ecrans/HP-Compaq-LE2202/image_2.jpg)
 ![Alt text](ecrans/HP-Compaq-LE2202/image_3.jpg)
 ![Alt text](ecrans/HP-Compaq-LE2202/image_4.jpg)
