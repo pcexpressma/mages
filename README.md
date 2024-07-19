@@ -83,9 +83,9 @@
 
 ![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_1.jpg)
 
-![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_2.jpg)
-![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_3.jpg)
-![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_4.jpg)
+![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_2.webp)
+![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_3.webp)
+![Alt text](allinone/HP-EliteOne-800-G3-I5-7600-All-in-One/image_1.jpg)![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_4.webp)
 
 ![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_3.jpg)
 ![Alt text](allinone/HP-EliteOne-800-G5-I5-7600-All-in-One/image_4.jpg)
