@@ -98,6 +98,11 @@
 ![Alt text](allinone/HP-TouchSmart-Elite-7320--All-in-One/image_5.jpg)
 ![Alt text](allinone/HP-TouchSmart-Elite-7320--All-in-One/image_6.jpg)
 
+![Alt text](allinone/HP-EliteOne-800-G5-All-in-One-Computer/image_1.webp)
+![Alt text](allinone/HP-EliteOne-800-G5-All-in-One-Computer/image_2.webp)
+![Alt text](allinone/HP-EliteOne-800-G5-All-in-One-Computer/image_3.webp)
+![Alt text](allinone/HP-EliteOne-800-G5-All-in-One-Computer/image_4.webp)
+
 
 
 ![Alt text](ecrans/DELL-2412MB/image_1.jpg)
